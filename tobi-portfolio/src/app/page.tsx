@@ -29,7 +29,8 @@ export default function Home() {
       <div className="absolute bottom-0 right-0 w-64">
         <div className="text-pretty text-right">
           <p className="">born in Leonberg 1998 \</p>
-          <p className="">I believe every part of technology should serve humanity and give us the time and freedom to pursue ourselves</p>
+          <p className="">I believe every part of technology should serve humanity and give us the time and freedom to pursue ourselves \</p>
+          <p className="">Build with Next JS \</p>
         </div>
       </div>
   </div>
