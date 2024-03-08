@@ -22,7 +22,7 @@ export default function Home() {
         <a href="mailto:kapp_tobias@web.de" className="absolute top-0 right-2">
           <Image src="/pictures/mail.png" alt="Link to my E-Mail" width={"55"} height={"55"} className="" />
         </a>
-        <a href="https://de.linkedin.com/in/tobias-kapp-727164174" className="absolute right-0 top-12">
+        <a href="https://de.linkedin.com/in/tobias-kapp-727164174" className="absolute top-12 right-0">
           <Image src="/pictures/linkedIn.png" alt="Link to my LinkedIn Account" className="" width={"70"} height={"70"} />
         </a>
         <a href="https://www.instagram.com/tobiaska.pp/" className="absolute top-32 right-3.5">
@@ -33,7 +33,7 @@ export default function Home() {
         <div className="text-justify">
           <p className="">born in Leonberg 1998 \</p>
           <p className="">I believe every part of technology should serve humanity and give us the time and freedom to pursue ourselves \</p>
-          <p className="">Build with Next JS \</p>
+          <p className="">Built with Next JS \</p>
         </div>
       </div>
   </div>
