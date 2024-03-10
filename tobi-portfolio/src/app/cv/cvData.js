@@ -22,7 +22,7 @@ export const data = [
         content: 'First board of student club, faculty council, and academic commission at Hochschule Heilbronn',
       },
       {
-        title: 'April - July 2019',
+        title: 'September 2018 - July 2019',
         content: 'Voluntary tutoring for immigrants',
       },
       {
