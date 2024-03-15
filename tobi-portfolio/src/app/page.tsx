@@ -5,18 +5,14 @@ import Link from "next/link"
 
 export default function Home() {
   return (
-    <div className="font-mono absolute top-10 left-20 right-20 bottom-10">
-      <div className="absolute">
+    <div className="font-mono absolute top-20 left-20 right-20 bottom-10">
+      <div className="">
         <div className="text-5xl">Tobias Kapp</div>
       </div>
       <div className="absolute top-20">
         <div className="text-xl">Software Engineering \</div>
         <div className="text-xl my-3">Management \</div>
         <div className="text-xl">IT Architecture \</div>
-      </div>
-      <div className="absolute bottom-0">
-        <Link href="/cv">CV</Link>
-        <Link href="/skills" className="ml-4">Skills</Link>
       </div>
       <div className="relative top-0 right-0 ">
         <a href="mailto:kapp_tobias@web.de" className="absolute top-0 right-2">

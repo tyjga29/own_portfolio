@@ -9,7 +9,7 @@ import { data } from './cvData';
 export default function Home() {
   return (
     <div className="writing">
-      <div className="text-6xl absolute top-7 left-20">
+      <div className="text-6xl flex ml-20">
         CV
       </div>
       <TimeLine />
