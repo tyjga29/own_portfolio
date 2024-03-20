@@ -114,7 +114,7 @@ export const data = [
         title: 'September 2022 - August 2023',
         content: (
           <>
-            Gin expert at Botanical Affairsbr />
+            Gin expert at Botanical Affairs<br />
             <i>Stuttgart</i>
           </>
         ),
