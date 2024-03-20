@@ -90,7 +90,7 @@ export const data = [
         title: 'May 2020',
         content: (
           <>
-            Organization of the streaming concert "Klassik unter Strom"<br />
+            Organization of the streaming concert <b>Klassik unter Strom</b><br />
             <i>Berlin</i>
           </>
         ),
