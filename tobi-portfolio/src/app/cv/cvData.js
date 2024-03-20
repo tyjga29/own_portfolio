@@ -12,7 +12,7 @@ export const data = [
       },
       {
         title: 'September 2017 - July 2021',
-        content: 'Studies of Culture Management at Hochschule Heilbronn',
+        content: 'Studies of Sports and Culture Management at Hochschule Heilbronn',
         image: '/pictures/cv/kiau.webp',
         imageWidth: 400,
         imageHeight: 130,
