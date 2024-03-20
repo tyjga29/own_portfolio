@@ -4,7 +4,7 @@ export const data = [
         content: (
           <>
             Highschool Albert Schweitzer Gymnasium<br />
-            <i>Leonberg</i>
+            Leonberg
           </>
         ),
       },
@@ -13,7 +13,7 @@ export const data = [
         content: (
           <>
             European Bartender School<br />
-            <i>Barcelon</i>
+            Barcelona
           </>
         ),
         image: '/pictures/cv/ebs.png',
@@ -25,7 +25,7 @@ export const data = [
         content: (
           <>
             Studies of Sports and Culture Management at Hochschule Heilbronn<br />
-            <i>Künzelsau</i>
+            Künzelsau
           </>
         ),
         image: '/pictures/cv/kiau.webp',
@@ -37,7 +37,7 @@ export const data = [
         content: (
           <>
             First board of student club, faculty council, and academic commission  at Hochschule Heilbronn<br />
-            <i>Künzelsau</i>
+            Künzelsau
           </>
         ),
       },
@@ -47,7 +47,7 @@ export const data = [
         content: (
           <>
             Voluntary tutoring for immigrants<br />
-            <i>Künzelsau</i>
+            Künzelsau
           </>
         ),
       },
@@ -56,7 +56,7 @@ export const data = [
         content: (
           <>
             Investigation of the Porosea triathlon with subsequent lecture in front of the city<br />
-            <i>Poros, Greece</i>
+            Poros, Greece
           </>
         ),
         image: '/pictures/cv/poros.jpg',
@@ -70,7 +70,7 @@ export const data = [
             Internship at Elephant Gin as Event and Product Manager<br />
             Bar Convent Berlin 2020<br />
             Grüne Woche 2020<br />
-            <i>Berlin</i>
+            Berlin
           </>
         ),
       },
@@ -79,7 +79,7 @@ export const data = [
         content: (
           <>
             Semester abroad at the Universidade Federal de Pernambuco<br />
-            <i>Recife, Brazil</i>
+            Recife, Brazil
           </>
         ),
         image: '/pictures/cv/uPernambuco.jpg',
@@ -91,7 +91,7 @@ export const data = [
         content: (
           <>
             Organization of the streaming concert "Klassik unter Stron"<br />
-            <i>Berlin</i>
+            Berlin
           </>
         ),
         image: '/pictures/cv/unterStrom.jpg',
@@ -103,7 +103,7 @@ export const data = [
         content: (
           <>
             Dual Studies of Computer Science at Duale Hochschule Baden-Württemberg at diconium digital solutions<br />
-            <i>Stuttgart</i>
+            Stuttgart
           </>
         ),
         image: '/pictures/cv/dhbw.jpg',
@@ -114,8 +114,8 @@ export const data = [
         title: 'September 2022 - August 2023',
         content: (
           <>
-            Gin expert at Botanical Affairs<br />
-            <i>Stuttgart</i>
+            Gin specialist at Botanical Affairs<br />
+            Stuttgart
           </>
         ),
         image: '/pictures/cv/bot.jpg',
@@ -127,7 +127,7 @@ export const data = [
         content: (
           <>
             Bartender at Le Petit Coq<br />
-            <i>Stuttgart</i>
+            Stuttgart
           </>
         ),
         image: '/pictures/cv/petit.jpg',
