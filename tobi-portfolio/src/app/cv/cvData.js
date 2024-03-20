@@ -3,7 +3,7 @@ export const data = [
         title: '- July 2017',
         content: (
           <>
-            Highschool Albert Schweitzer Gymnasium<br />
+            <b>Highschool</b> Albert Schweitzer Gymnasium<br />
             <i>Leonberg</i>
           </>
         ),
@@ -25,7 +25,7 @@ export const data = [
         title: 'September 2017 - July 2021',
         content: (
           <>
-            Studies of Culture and Sport Management at Hochschule Heilbronn<br />
+            <b>Studies of Culture and Sport Management</b> at Hochschule Heilbronn<br />
             <i>Künzelsau</i>
           </>
         ),
@@ -37,7 +37,7 @@ export const data = [
         title: 'February - July 2019',
         content: (
           <>
-            First board of student club, faculty council, and academic commission at Hochschule Heilbronn<br />
+            First board of <b>student club</b>, <b>faculty council</b>, and <b>academic commission</b> at Hochschule Heilbronn<br />
             <i>Künzelsau</i>
           </>
         ),
@@ -55,7 +55,7 @@ export const data = [
         title: 'May 2019',
         content: (
           <>
-            Investigation of the Porosea triathlon with subsequent lecture in front of the city<br />
+            <b>Investigation of the Porosea triathlon</b> with subsequent lecture in front of the city<br />
             <i>Poros, Greece</i>
           </>
         ),
@@ -67,7 +67,7 @@ export const data = [
         title: 'February - May 2020',
         content: (
           <>
-            Internship at Elephant Gin as Event and Product Manager<br />
+            Internship at Elephant Gin as <b>Event and Product Manager</b><br />
             Bar Convent Berlin 2020<br />
             Grüne Woche 2020<br />
             <i>Berlin</i>
@@ -78,7 +78,7 @@ export const data = [
         title: 'February - May 2020',
         content: (
           <>
-            Semester abroad at the Universidade Federal de Pernambuco<br />
+            <b>Semester abroad</b> at the Universidade Federal de Pernambuco<br />
             <i>Recife, Brazil</i>
           </>
         ),
@@ -102,7 +102,7 @@ export const data = [
         title: 'September 2021 - August 2024',
         content: (
           <>
-            Dual Studies of Computer Science at Duale Hochschule Baden-Württemberg at diconium digital solutions<br />
+            <b>Dual Studies of Computer Science</b> at Duale Hochschule Baden-Württemberg at diconium digital solutions<br />
             <i>Stuttgart</i>
           </>
         ),
